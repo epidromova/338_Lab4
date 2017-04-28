@@ -5,6 +5,8 @@
 
 .heading {
   color: orange;
+  
+
 }
 
 .url {
@@ -38,6 +40,6 @@
   font-size: 1em;
 }
 
-h4 {
-  width: 500px;
+.text {
+  width: 450px;
 }
