@@ -4,10 +4,40 @@
 }
 
 .heading {
-  color: Orange;
+  color: orange;
 }
 
 .url {
   text-align: center;
-  
+
+}
+#logo {
+  height: -50px;
+  width: 150px;
+  float: right;
+
+}
+
+#black-box {
+  background-color: black;
+  width: 500px;
+
+}
+
+#url {
+  color: lightgray;
+  width: 400px;
+
+}
+
+.annoying {
+  position: relative;
+  top: -300px;
+  left: 400px;
+  width: 197px;
+  font-size: 1em;
+}
+
+h4 {
+  width: 500px;
 }
