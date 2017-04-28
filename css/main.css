@@ -4,8 +4,9 @@
 }
 
 .heading {
-  color: orange;
-  
+  color: red;
+  position: relative;
+  top: 30px;
 
 }
 
